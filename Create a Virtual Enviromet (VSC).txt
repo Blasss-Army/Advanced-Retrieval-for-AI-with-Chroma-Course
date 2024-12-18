@@ -1,0 +1,11 @@
+Steps for creating a Virtual enviroment .venv in VSCode
+
+1) Create a folder in local, where the project is gonna be located.
+2) Open the folder location in VSC
+3) Open new terminal (CONTROL + Ñ )
+4) Write in the terminal the following command: python -m venv .venv
+5) Acivate the new virtual enviroment by change it to .venv
+6) Kill the terminal and start a new one (An you will be in in the virtual enviroment, therefore you will be able to install
+all packages you want by using the command 'pip install ...'
+
+----------------------------------YOU ARE ALL SET---------------------------------------
